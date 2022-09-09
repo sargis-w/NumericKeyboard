@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+NumericKeyboard-NumericKeyboard in Pods, no dependencies
+NumericKeyboard in Pods, depends on:
+NumericKeyboard-NumericKeyboard in Pods (explicit)
